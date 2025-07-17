@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gbcui-horoscope-serve-badge.png)](https://mseep.ai/app/gbcui-horoscope-serve)
+
 # Horoscope MCP Server | 星座运势 MCP 服务器
 
 [English](#english) | [中文](#chinese)
